@@ -1,0 +1,1 @@
+{"mappings":"ACAA,cAIA","sources":["index.ace37661.css","src/page.css"],"sourcesContent":["body {\n  margin: 0;\n}\n\n.page__body {\n  flex-direction: column;\n  display: flex;\n}\n/*# sourceMappingURL=index.ace37661.css.map */\n","body {\n  margin: 0;\n}\n\n.page__body {\n  display: flex;\n  flex-direction: column;\n}\n"],"names":[],"version":3,"file":"index.ace37661.css.map"}
